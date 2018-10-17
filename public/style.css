@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(241, 241, 242);
+}
+
+div.content {
+  width: 52%;
+  background-color: white;
+  margin-left: 40px;
+  margin-top: 40px;
+  padding: 40px;
+}
